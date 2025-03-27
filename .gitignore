@@ -9,7 +9,7 @@
 *.exe
 
 # ไม่ติดตามโฟลเดอร์และไฟล์ที่สร้างอัตโนมัติ
-node_modules/
+/node_modules/
 dist/
 venv/
 .DS_Store
